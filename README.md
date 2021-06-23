@@ -5,6 +5,7 @@ Table of Contents
 * [dmenu-kostas](#dmenu-kostas)
 * [My custom dmenu build](#My-custom-dmenu-build)
 * [Applied patches](#Applied-patches)
+* [Installation](#Installation)
 
 # My custom dmenu build
 
