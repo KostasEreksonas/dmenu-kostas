@@ -7,6 +7,7 @@ MANPREFIX = $(PREFIX)/share/man
 
 X11INC = /usr/X11R6/include
 X11LIB = /usr/X11R6/lib
+X11PACKAGES = xft xext xrandr xrender xinerama
 
 # Xinerama, comment if you don't want it
 XINERAMALIBS  = -lXinerama
