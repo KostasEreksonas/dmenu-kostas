@@ -1,5 +1,7 @@
 # dmenu-kostas
 
+***Newpatch*** branch is used for applying new patches to `dmenu` before merging them to the main branch. It's primary used as a fail-safe in case of errors.
+
 Table of Contents
 =================
 * [dmenu-kostas](#dmenu-kostas)
