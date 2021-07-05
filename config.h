@@ -22,8 +22,8 @@ static const unsigned int alphas[SchemeLast][2] = {
 	[SchemeOut] = { OPAQUE, alpha },
 };
 /* -l and -g options; controls number of lines and columns in grid if > 0 */
-static unsigned int lines      = 3;
-static unsigned int columns    = 3;
+static unsigned int lines      = 5;
+static unsigned int columns    = 5;
 
 /*
  * Characters not considered part of a word while deleting words
