@@ -25,9 +25,7 @@ In this section I will present patches that I've applied to my custom build of d
 
 # Installation
 
-In this section I will add instructions how to install this my custom `dwm` build.
-
-1. Clone this git repository:
+1. Clone git repository:
 
 `git clone https://github.com/KostasEreksonas/dwm-kostas.git`
 
@@ -42,6 +40,3 @@ In this section I will add instructions how to install this my custom `dwm` buil
 4. Run a clean install of this package with ***root*** privilleges:
 
 `make clean install`
-
-5. Done!
-
