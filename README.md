@@ -1,19 +1,13 @@
 # dmenu-kostas
 
-***Newpatch*** branch is used for applying new patches to `dmenu` before merging them to the main branch. It's primary used as a fail-safe in case of errors.
+Custom build of a suckless dynamic menu (dmenu) utility for dwm.
 
 Table of Contents
 =================
-* [dmenu-kostas](#dmenu-kostas)
-* [My custom dmenu build](#My-custom-dmenu-build)
-* [Applied patches](#Applied-patches)
+* [Applied Patches](#Applied-Patches)
 * [Installation](#Installation)
 
-# My custom dmenu build
-
-My custom build of suckless dmenu software for my Linux install. I have decided to try out suckless software and I will document my progress here.
-
-# Applied patches
+# Applied Patches
 
 In this section I will present patches that I've applied to my custom build of dmenu.
 
@@ -25,7 +19,7 @@ In this section I will present patches that I've applied to my custom build of d
 
 # Installation
 
-1. Clone git repository:
+1. Clone dmenu git repository:
 
 `git clone https://github.com/KostasEreksonas/dwm-kostas.git`
 
