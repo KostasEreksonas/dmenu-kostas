@@ -6,6 +6,7 @@ Table of Contents
 =================
 * [Applied Patches](#Applied-Patches)
 * [Installation](#Installation)
+* [Keybindings](#Keybindings)
 
 # Applied Patches
 
@@ -34,3 +35,9 @@ In this section I will present patches that I've applied to my custom build of d
 4. Run a clean install of this package with ***root*** privilleges:
 
 `make clean install`
+
+# Keybindings
+
+|  Keybind |	  Function		 |
+|:--------:|:-------------------:|
+| Ctrl + P | Open a program menu |
