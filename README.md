@@ -10,7 +10,7 @@ Table of Contents
 
 # Applied Patches
 
-In this section I will present patches that I've applied to my custom build of dmenu.
+Following is the list of applied patches.
 
 * [Alpha](../main/patches/dmenu-alpha-20210605-1a13d04.diff) - patch to add transparency to dmenu instance.
 * [Border](../main/patches/dmenu-border-4.9.diff) - patch that adds an outside border of a dmenu instance.
