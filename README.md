@@ -12,11 +12,12 @@ Table of Contents
 
 Following is the list of applied patches.
 
-* [Alpha](../main/patches/dmenu-alpha-20210605-1a13d04.diff) - patch to add transparency to dmenu instance.
-* [Border](../main/patches/dmenu-border-4.9.diff) - patch that adds an outside border of a dmenu instance.
-* [Center](../main/patches/dmenu-center-20200111-8cd37e1.diff) - patch that centers dmenu instance instead of it showing on top of screen.
-* [Grid](../main/patches/dmenu-grid-4.9.diff) - patch that adds grid layout of programs list within dmenu.
-* [Gridnav](../main/patches/dmenu-gridnav-5.0.diff) - patch that allows to go left and right when searching for programs within an open dmenu instance.
+* [Alpha](https://tools.suckless.org/dmenu/patches/alpha/)
+* [Border](https://tools.suckless.org/dmenu/patches/border/)
+* [Center](https://tools.suckless.org/dmenu/patches/center/)
+* [Grid](https://tools.suckless.org/dmenu/patches/grid/)
+* [Gridnav](https://tools.suckless.org/dmenu/patches/gridnav/)
+* [Gruvbox](https://tools.suckless.org/dmenu/patches/gruvbox/)
 
 # Installation
 
