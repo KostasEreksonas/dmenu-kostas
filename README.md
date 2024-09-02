@@ -25,7 +25,7 @@ Following is the list of applied patches.
 
 `git clone https://github.com/KostasEreksonas/dwm-kostas.git`
 
-2. Go to the folder cloned repository:
+2. Go to the folder of cloned repository:
 
 `cd dwm-kostas`
 
